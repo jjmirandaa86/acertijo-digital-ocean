@@ -1,4 +1,8 @@
-## PRODUCTION
+## Start
+
+Modify .env
+
+### PRODUCTION
 
 ```bash
 
@@ -7,7 +11,7 @@
 
 ```
 
-## DEVELOPER
+### DEVELOPER
 
 ```bash
 
@@ -16,7 +20,7 @@
 
 ```
 
-## If I wanna up 1 services
+### If I wanna up 1 services
 
 ```bash
 
