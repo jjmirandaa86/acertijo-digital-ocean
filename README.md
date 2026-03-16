@@ -35,5 +35,14 @@ Modify .env
   show dbs
 
   docker exec -it mysql mysql -u$MYSQL_USER -p$MYSQL_PASSWORD $MYSQL_DATABASE
-  show databases
+  show databases;
+```
+
+### Delete services by container
+
+```bash
+  docker kill mysql
+  docker kill mongodb
+  docker kill node
+  docker kill nginx
 ```
