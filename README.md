@@ -1,7 +1,11 @@
 ## PRODUCTION
 
-chmod +x start-services-prod.sh
-./start-services-prod.sh
+```bash
+
+  chmod +x start-services-prod.sh
+  ./start-services-prod.sh
+
+```
 
 ## DEVELOPER
 
